@@ -1,0 +1,10 @@
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\bin\Debug\ProxyGame.exe.config
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\bin\Debug\ProxyGame.exe
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\bin\Debug\ProxyGame.pdb
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\obj\Debug\ProxyGame.csprojAssemblyReference.cache
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\obj\Debug\ProxyGame.csproj.CoreCompileInputs.cache
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\obj\Debug\ProxyGame.exe
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\obj\Debug\ProxyGame.pdb
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\bin\Debug\System.ValueTuple.dll
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\bin\Debug\System.ValueTuple.xml
+C:\Users\M4700\source\repos\ProxyGame\ProxyGame\obj\Debug\ProxyGame.csproj.CopyComplete
